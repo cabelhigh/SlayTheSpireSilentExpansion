@@ -1,0 +1,28 @@
+{
+  "Repurpose": {
+    "NAME" : "Repurpose",
+    "DESCRIPTION": "Exhaust a card. NL Skills deals !D! damage to ALL enemies; NL Attacks gain !B! block; NL Powers draw !M! cards."
+  },
+
+  "Master Plan": {
+    "NAME": "Master Plan",
+    "DESCRIPTION": "Exhaust X number of cards. Next turn, gain X - !M! [G] and draw X - !M! cards."
+  },
+
+  "Improvised Strike": {
+    "NAME": "Improvised Strike",
+    "DESCRIPTION": "Do damage equal to your hand size times !M! (excluding this card)."
+  },
+
+  "Risky Gambit": {
+    "NAME": "Calculated Gamble",
+    "DESCRIPTION": "Lose 1 Dexterity. Heal HP equal to the number of cards in your hand (excluding this card). NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 1 Dexterity. Heal HP equal to the number of cards in your hand (excluding this card)."
+  },
+
+  "Hasty Defense": {
+    "NAME": "Hasty Defense",
+    "DESCRIPTION": "Gain 5 Thorns. Lose 1 per turn. Exhaust."
+  }
+
+}

@@ -1,0 +1,9 @@
+{
+  "modid": "Five_New_Green_Cards",
+  "name": "Five New Green Cards",
+  "author_list": ["Cabelhigh"],
+  "description": "New cards for the Silent, based around exhausting cards and large hand sizes.",
+  "version": "0.1",
+  "sts_version": "06-15-2018",
+  "mts_version": "2.8.0"
+}
